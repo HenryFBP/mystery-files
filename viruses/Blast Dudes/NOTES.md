@@ -133,11 +133,11 @@ Odd. Not sure how this is useful to them. Perhaps this is only used to show a co
 
 TODO
 
-### procmon
+### procmon with discord acct
 
 todo
 
-### wireshark
+### wireshark with discord acct
 
 todo
 
@@ -150,3 +150,8 @@ It asks for `bbystealer [dot] wtf` and then sends a bunch of TLS traffic to it!
 ![](img/wiresharkdomain.png)
 
 See [this file](captures/wireshark-blastdudes-pristine.pcap).
+
+### domains
+
+- bbystealer [dot] wtf
+- 
