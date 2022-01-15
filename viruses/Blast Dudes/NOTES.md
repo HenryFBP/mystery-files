@@ -86,6 +86,9 @@ Some guy called `Usuario` built this, perhaps. Means "user" in spanish, so could
 See [strings.txt](strings.txt) for more strings.
 
 Also `pwnBetterDiscord`... Might have to extract some JS.
+## binary ninja
+
+looks cool, slow ;p try it out.
 
 ## process hacker and procmon
 
@@ -94,3 +97,7 @@ Also `pwnBetterDiscord`... Might have to extract some JS.
 WoW!!! VERY SUSSY!!!!!
 
 ![](img/sussy-procmon.png)
+
+It always deletes its payloads!
+
+Maybe use file recovery software in `C:\Users\vagrant\AppData\Local\Temp\`?
