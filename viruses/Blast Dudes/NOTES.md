@@ -87,3 +87,6 @@ See [strings.txt](strings.txt) for more strings.
 
 Also `pwnBetterDiscord`... Might have to extract some JS.
 
+## process hacker and procmon
+
+[See this file.](procmon-blastdudes.pml)
