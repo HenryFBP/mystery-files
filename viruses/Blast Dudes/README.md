@@ -1,6 +1,6 @@
-sent to me by this guy
+sent to me by this guy, qyamas
 
-qyamas is possibly compromised, it's possible the person originally owning the account was not behind this.
+qyamas is possibly hacked, it's possible the person originally owning the account was not behind this.
 
 -   qyamas#1749  
 -   https://youtu.be/7YvAYIJSSZY  
@@ -8,3 +8,5 @@ qyamas is possibly compromised, it's possible the person originally owning the a
 -   https://blastdudes.itch.io/blast-dudes  
 
 It seems to be a discord stealer/powershell dropper, DO NOT unzip outside a VM... And be careful even then.
+
+![](snippy.png)
