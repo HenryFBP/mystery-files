@@ -4,7 +4,8 @@ qyamas is possibly hacked, it's possible the person originally owning the accoun
 
 -   qyamas#1749  
 -   https://youtu.be/7YvAYIJSSZY  
--   https://steamcommunity.com/profiles/76561198117736027  
+-   https://steamcommunity.com/profiles/76561198117736027
+    -   blocked by him on steam
 -   https://blastdudes.itch.io/blast-dudes  
 
 It seems to be a discord stealer/powershell dropper, DO NOT unzip outside a VM... And be careful even then.
