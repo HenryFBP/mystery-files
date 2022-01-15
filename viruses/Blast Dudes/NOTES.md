@@ -143,4 +143,10 @@ todo
 
 ## wireshark w/o discord acct
 
-todo
+Some SUSSY ass domains!!!
+
+It asks for `bbystealer [dot] wtf` and then sends a bunch of TLS traffic to it!
+
+![](img/wiresharkdomain.png)
+
+See [this file](captures/wireshark-blastdudes-pristine.pcap).
