@@ -10,7 +10,7 @@ qyamas is possibly hacked, it's possible the person originally owning the accoun
 
 It seems to be a discord stealer/powershell dropper, DO NOT unzip outside a VM... And be careful even then.
 
-Analysis in [NOTES.md](NOTES.md)
+[Malware analysis in NOTES.md](NOTES.md)
 
 ![](img/snippy.png)
 
