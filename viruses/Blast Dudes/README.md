@@ -12,6 +12,15 @@ It seems to be a discord stealer/powershell dropper, DO NOT unzip outside a VM..
 
 [Malware analysis in NOTES.md](NOTES.md)
 
+## related
+
+-   https://www.reddit.com/r/netsec/comments/rc1thm/malicious_npm_packages_are_after_your_discord/
+-   https://gist.github.com/DiscordSaver/1477943130cf53c8a8c760d0df1b896e
+-   https://gist.github.com/DiscordSaver
+-   https://twitter.com/DiscordSaver
+
+## screenshots
+
 ![](img/snippy.png)
 
 ![](img/snippy2.png)

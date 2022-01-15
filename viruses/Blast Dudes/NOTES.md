@@ -154,4 +154,4 @@ See [this file](captures/wireshark-blastdudes-pristine.pcap).
 ### domains
 
 - bbystealer [dot] wtf
-- 
+- bby [dot] rip
