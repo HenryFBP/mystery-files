@@ -12,7 +12,14 @@ It seems to be a discord stealer/powershell dropper, DO NOT unzip outside a VM..
 
 [Malware analysis in NOTES.md](NOTES.md)
 
-## related
+## related resources
+
+Apparently, this is a copy of an existing Discord stealer called "PirateStealer".
+
+-   https://github.com/henryfbp/piratestealer-1
+-   https://github.com/henryfbp/piratestealer
+
+And below are some more info about the software.
 
 -   https://www.reddit.com/r/netsec/comments/rc1thm/malicious_npm_packages_are_after_your_discord/
 -   https://gist.github.com/DiscordSaver/1477943130cf53c8a8c760d0df1b896e
