@@ -1,0 +1,1 @@
+﻿/t:library /utf8output /R:"System.dll" /R:"C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Management.Automation\v4.0_3.0.0.0__31bf3856ad364e35\System.Management.Automation.dll" /R:"System.Core.dll" /out:"C:\Users\vagrant\AppData\Local\Temp\pfcomd3a\pfcomd3a.dll" /debug- /optimize+ /warnaserror /optimize+  "C:\Users\vagrant\AppData\Local\Temp\pfcomd3a\pfcomd3a.0.cs"

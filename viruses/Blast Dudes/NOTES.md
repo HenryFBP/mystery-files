@@ -83,16 +83,17 @@ From a STRING recovered from address `0x1453c74aa`,
 
 Some guy called `Usuario` built this, perhaps. Means "user" in spanish, so could just be a spanish anon.
 
-See [strings.txt](strings.txt) for more strings.
+See [strings.txt](data/strings.txt) for more strings.
 
 Also `pwnBetterDiscord`... Might have to extract some JS.
+
 ## binary ninja
 
 looks cool, slow ;p try it out.
 
 ## process hacker and procmon
 
-[See this file.](procmon-blastdudes.pml)
+[See this file.](captures/procmon-blastdudes-pristine.pml)
 
 WoW!!! VERY SUSSY!!!!!
 
@@ -101,3 +102,45 @@ WoW!!! VERY SUSSY!!!!!
 It always deletes its payloads!
 
 Maybe use file recovery software in `C:\Users\vagrant\AppData\Local\Temp\`?
+
+## recuva
+
+[The PS1 payload](data/recuva)
+
+```cs
+using System;
+using System.Runtime.InteropServices;
+
+namespace Console
+{
+    public class Window
+    {
+    
+    [DllImport("Kernel32.dll")]
+    public static extern IntPtr GetConsoleWindow();
+    [DllImport("user32.dll")]
+    public static extern bool ShowWindow(IntPtr hWnd, Int32 nCmdShow);
+    
+
+    }
+
+}
+```
+
+Odd. Not sure how this is useful to them. Perhaps this is only used to show a console window.
+
+## give it a discord account to steal
+
+TODO
+
+### procmon
+
+todo
+
+### wireshark
+
+todo
+
+## wireshark w/o discord acct
+
+todo
