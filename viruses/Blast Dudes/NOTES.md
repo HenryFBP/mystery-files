@@ -90,3 +90,7 @@ Also `pwnBetterDiscord`... Might have to extract some JS.
 ## process hacker and procmon
 
 [See this file.](procmon-blastdudes.pml)
+
+WoW!!! VERY SUSSY!!!!!
+
+![](img/sussy-procmon.png)
