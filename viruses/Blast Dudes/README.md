@@ -12,3 +12,5 @@ It seems to be a discord stealer/powershell dropper, DO NOT unzip outside a VM..
 ![](snippy.png)
 
 ![](snippy2.png)
+
+![](snippy3.png)
