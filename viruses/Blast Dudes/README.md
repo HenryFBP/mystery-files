@@ -18,6 +18,7 @@ It seems to be a discord stealer/powershell dropper, DO NOT unzip outside a VM..
 -   https://gist.github.com/DiscordSaver/1477943130cf53c8a8c760d0df1b896e
 -   https://gist.github.com/DiscordSaver
 -   https://twitter.com/DiscordSaver
+-   https://twitter.com/stanleytry
 
 ## screenshots
 
