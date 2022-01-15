@@ -43,8 +43,47 @@ The entire Node.JS binary is in here.
 
 From a STRING recovered from address `0x1453c74aa`,
 
-```
-"msbuild_path": "D:\\\\VisualStudio\\\\MSBuild\\\\Current\\\\Bin\\\\MSBuild.exe",\n    "cache": "C:\\\\Users\\\\Usuario\\\\AppData\\\\Local\\\\npm-cache",\n    "globalconfig": "C:\\\\Users\\\\Usuario\\\\AppData\\\\Roaming\\\\npm\\\\etc\\\\npmrc",\n    "global_prefix": "C:\\\\Users\\\\Usuario\\\\AppData\\\\Roaming\\\\npm",\n    "init_module": "C:\\\\Users\\\\Usuario\\\\.npm-init.js",\n    "local_prefix": "C:\\\\Users\\\\Usuario\\\\Downloads",\n    "metrics_registry": "https://registry.npmjs.org/",\n    "node_gyp": "C:\\\\Users\\\\Usuario\\\\AppData\\\\Roaming\\\\npm\\\\node_modules\\\\npm\\\\node_modules\\\\node-gyp\\\\bin\\\\node-gyp.js",\n    "prefix": "C:\\\\Users\\\\Usuario\\\\AppData\\\\Roaming\\\\npm",\n    "userconfig": "C:\\\\Users\\\\Usuario\\\\.npmrc",\n    "user_agent": "npm/8.3.0 node/v17.3.0 win32 x64 workspaces/false"\n  }\n}\n<?xml version="1.0" encoding="utf-8"?>\n<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">\n  <ItemGroup Label="ProjectConfigurations">\n    <ProjectConfiguration Include="Debug|x64">\n      <Configuration>Debug</Configuration>\n      <Platform>x64</Platform>\n    </ProjectConfiguration>\n    <ProjectConfiguration Include="Release|x64">\n      <Configuration>Release</Configuration>\n      <Platform>x64</Platform>\n    </ProjectConfiguration>\n  </ItemGroup>\n  <PropertyGroup Label="Globals">\n    <ProjectGuid>{ECE413C6-4239-9A04-946C-A28C7F60D12E}</ProjectGuid>\n    <Keyword>Win32Proj</Keyword>\n    <RootNamespace>node-dpapi</RootNamespace>\n    <IgnoreWarnCompileDuplicatedFilename>true</IgnoreWarnCompileDuplicatedFilename>\n    <PreferredToolArchitecture>x64</PreferredToolArchitecture>\n    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>\n  </PropertyGroup>\n  <Import Project="$(VCTargetsPath)\\Microsoft.Cpp.Default.props"/>\n  <PropertyGroup Label="Configuration">\n    <ConfigurationType>DynamicLibrary</ConfigurationType>\n  </PropertyGroup>\n  <PropertyGroup Label="Locals">
+```json
+"msbuild_path": "D:\\VisualStudio\\MSBuild\\Current\\Bin\\MSBuild.exe",
+    "cache": "C:\\Users\\Usuario\\AppData\\Local\\npm-cache",
+    "globalconfig": "C:\\Users\\Usuario\\AppData\\Roaming\\npm\\etc\\npmrc",
+    "global_prefix": "C:\\Users\\Usuario\\AppData\\Roaming\\npm",
+    "init_module": "C:\\Users\\Usuario\\.npm-init.js",
+    "local_prefix": "C:\\Users\\Usuario\\Downloads",
+    "metrics_registry": "https://registry.npmjs.org/",
+    "node_gyp": "C:\\Users\\Usuario\\AppData\\Roaming\\npm\\node_modules\\npm\\node_modules\\node-gyp\\bin\\node-gyp.js",
+    "prefix": "C:\\Users\\Usuario\\AppData\\Roaming\\npm",
+    "userconfig": "C:\\Users\\Usuario\\.npmrc",
+    "user_agent": "npm/8.3.0 node/v17.3.0 win32 x64 workspaces/false"
+  }\n}\n<?xml version="1.0" encoding="utf-8"?>\n<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{ECE413C6-4239-9A04-946C-A28C7F60D12E}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>node-dpapi</RootNamespace>
+    <IgnoreWarnCompileDuplicatedFilename>true</IgnoreWarnCompileDuplicatedFilename>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props"/>
+  <PropertyGroup Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Label="Locals">
 ```
 
 Some guy called `Usuario` built this, perhaps. Means "user" in spanish, so could just be a spanish anon.
+
+See [strings.txt](strings.txt) for more strings.
+
+Also `pwnBetterDiscord`... Might have to extract some JS.
+
