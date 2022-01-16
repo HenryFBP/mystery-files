@@ -27,7 +27,7 @@ And below are some more info about the software.
 -   https://twitter.com/DiscordSaver
 -   https://twitter.com/stanleytry
 -   If you find more token grabbers upload them here. https://sketchy.tel/#/
-
+-   https://sketchy.tel/#/hash/5329f51b3a97f72b7b212466d02919892136a642d181e6cb36fb00ca8b216ba4
 ### notes 2
 
 To sum up what piratestealer and bbystealer do: Execute game -> Execute payload -> Payload looks for cookies/tokens/saved passwords in browsers -> Downloads injection payload -> Kills Betterdiscord -> Injects payload into electron file -> Starts Discord -> Injection payload is watches for webhook calls inside of discord to capture information -> Sends information to C2 server.
