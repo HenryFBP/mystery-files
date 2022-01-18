@@ -28,8 +28,8 @@ And below are some more info about the software.
 -   https://twitter.com/stanleytry
 -   If you find more token grabbers upload them here. https://sketchy.tel/#/
     -   https://sketchy.tel/#/hash/5329f51b3a97f72b7b212466d02919892136a642d181e6cb36fb00ca8b216ba4
-        -   https://bbystealer.wtf/ikHrd6k2PqZU/tokens
-        -   https://bbystealer.wtf/ikHrd6k2PqZU/str
+        -   hxxps://bbystealer DOT wtf/ikHrd6k2PqZU/tokens
+        -   hxxps://bbystealer DOT wtf/ikHrd6k2PqZU/str
 
 ### notes 2
 
